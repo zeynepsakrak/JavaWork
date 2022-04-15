@@ -1,11 +1,11 @@
-package replit;
+package deneme;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class Soru {
+public class D03 {
     public static void main(String[] args) {
         /*
     Bir Strig'de herhangi bir karakteri silecek bir method yaz
